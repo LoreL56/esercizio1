@@ -1,0 +1,11 @@
+.Concept {
+  display: inline;
+  background-color: #330066;
+  margin: 50px;
+  color: rgb(207, 183, 183);
+  box-shadow: 20px 20px 20px pink;
+  border-radius: 12px;
+  text-align: center;
+  letter-spacing: 2px;
+  min-height: 50vh;
+}
